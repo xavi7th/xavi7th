@@ -66,4 +66,6 @@ Here are some ideas to get you started:
 
 <hr>
 
+ <samp> 💼 You can check out my portfolio at [daniel.stafr.pro](https://daniel.stafr.pro).</samp>
+
 <hr>
